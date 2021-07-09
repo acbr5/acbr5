@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-## <h3 align="left">GitHub Stats adn Most Used Languages</h3>
+## <h3 align="left">GitHub Stats and Most Used Languages</h3>
 
 <a href="https://camo.githubusercontent.com/bfb70a2cca2d78bc5a97b5afab36cd6cc1f9ce36e88b1659da41afe1e07fb687/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616362723526686964653d636f6e74726962732c707273">
   <img style="margin-top:-50px" src="https://github-readme-stats.vercel.app/api?username=acbr5&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
