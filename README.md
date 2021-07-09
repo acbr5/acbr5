@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
  <h1 align="center">Hi there 👋, I'm Aysenur</h1>
 <h3 align="center">I'm someone who deals with cyber security and software development (mostly Java).</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=acbr5&style=flat-square&color=blue" alt="acbr5" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=acbr5&style=flat-square&color=yellow" alt="acbr5" /> </p>
 
 - 📫 How to reach me
 
@@ -37,6 +37,9 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<p align="center"> <img width="100%" src="https://github-readme-stats.vercel.app/api?username=acbr5&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical&card_width=500" alt="acbr5" /></p>
+## <h3 align="left">GitHub Stats</h3>
 
-<p align="center"><img width="100%" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=acbr5&layout=compact&theme=radical&card_width=1000&hide_border=true" /></p>
+<a href="">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=acbr5&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
+ <img width="50%" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=acbr5&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
+<a />
