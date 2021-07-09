@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## Me on Social Media:woman:
 
-<p align="left">
+<p align="left">  
   <a href="https://github.com/acbr5?tab=followers">
     <img src="https://img.shields.io/github/followers/acbr5?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub" />
   </a>
@@ -29,10 +29,10 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
   </a>
   <a href="https://allofsecurity.wordpress.com">
-    <img src="https://img.shields.io/badge/Blog-blue?style=for-the-badge&logo=Micro.blog" alt="Blog" />
+    <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Personal Blog" />
   </a>
  <a href="mailto:nurayse47@gmail.com">
-    <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=Mail.Ru&logoColor=white" alt="E-Mail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-Mail" />
   </a>
 </p>
 
