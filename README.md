@@ -16,7 +16,16 @@ Here are some ideas to get you started:
 <h3 align="left">I'm someone who deals with cyber security and software development (mostly Java).</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=acbr5&style=flat-square&color=yellow" alt="acbr5" /> </p>
 
-## Me on Social Media:woman:
+## <h3 align="left">GitHub Stats and Most Used Languages</h3>
+
+<a href="https://camo.githubusercontent.com/bfb70a2cca2d78bc5a97b5afab36cd6cc1f9ce36e88b1659da41afe1e07fb687/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616362723526686964653d636f6e74726962732c707273">
+  <img style="margin-top:-50px" src="https://github-readme-stats.vercel.app/api?username=acbr5&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
+<a />
+<a style="float:left">
+  <img src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=acbr5&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28"
+</a>
+
+  ## Me on Social Media:woman:
 
 <p align="left">  
   <a href="https://github.com/acbr5?tab=followers">
@@ -35,12 +44,3 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-Mail" />
   </a>
 </p>
-
-## <h3 align="left">GitHub Stats and Most Used Languages</h3>
-
-<a href="https://camo.githubusercontent.com/bfb70a2cca2d78bc5a97b5afab36cd6cc1f9ce36e88b1659da41afe1e07fb687/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616362723526686964653d636f6e74726962732c707273">
-  <img style="margin-top:-50px" src="https://github-readme-stats.vercel.app/api?username=acbr5&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
-<a />
-<a style="float:left">
-  <img src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=acbr5&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28"
-</a>
