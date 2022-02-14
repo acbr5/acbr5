@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi there 👋, I'm Aysenur
-<h3 align="left">I'm someone who deals with cyber security and software development (mostly Java).</h3>
+<h3 align="left">I'm someone who deals with cyber security and software development (mostly PHP).</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=acbr5&style=flat-square&color=yellow" alt="acbr5" /> </p>
 
 ## <h3 align="left">GitHub Stats and Most Used Languages</h3>
